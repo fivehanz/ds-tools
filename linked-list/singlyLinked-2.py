@@ -30,8 +30,12 @@ class LinkedList:
                 
 
 
-    def insert(self, index):
-        pass
+    def insert(self, index, item = None):
+        if index == 0:
+            self.insertAtBegining(item)
+        else:
+            i = 1
+            
 
     def createWithArray(self):
         pass

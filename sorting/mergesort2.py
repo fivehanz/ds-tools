@@ -1,7 +1,7 @@
 """
 Mergesort
 Inspired from Geeks4Geeks
-Recursive in-place
+Recursive
 """
 
 def mergesort(A):

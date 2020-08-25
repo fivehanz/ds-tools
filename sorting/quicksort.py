@@ -1,3 +1,7 @@
+"""
+Quicksort
+Recursive
+"""
 
 def partition(arr, low, high):
     """ using Lomuto's algorithm """
