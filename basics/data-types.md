@@ -30,7 +30,7 @@ Syntax:
 ```python
 range(stop)
 
-range(start=0, stop[, step=0])
+range(start=0, stop[, step=1])
 ```
 
 ## bytes [ref](https://docs.python.org/3/library/stdtypes.html#bytes-objects)
