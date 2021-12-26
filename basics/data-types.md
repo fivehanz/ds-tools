@@ -27,6 +27,7 @@
 ### range [ref](https://docs.python.org/3/library/stdtypes.html#ranges)
 
 Syntax:
+
 ```python
 range(stop)
 
