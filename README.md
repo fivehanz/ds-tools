@@ -2,7 +2,7 @@
 
 ## TOC
 
-- linkedlists
+- [linkedlists](/linked-list/README.md)
 	- singly LL
 	- doubly LL
 	- circular LL
