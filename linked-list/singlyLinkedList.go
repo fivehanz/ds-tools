@@ -8,9 +8,10 @@ type Node struct {
 type LinkedList struct {
 	head *Node
 	tail *Node
-	size int
+	len  int
 }
 
+/* append an element at the end */
 func (l *LinkedList) append(val int) {
 	itr := l.head
 
