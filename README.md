@@ -2,6 +2,7 @@
 
 ## TOC
 
+- [Arrays & Slices](/arrays/README.md)
 - [linkedlists](/linked-list/README.md)
 	- singly LL
 	- doubly LL
