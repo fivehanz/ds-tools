@@ -3,7 +3,7 @@
 ## TOC
 
 - [Arrays & Slices](/arrays/README.md)
-- [linkedlists](/linked-list/README.md)
+- [Linked Lists](/linked-list/README.md)
 	- singly LL
 	- doubly LL
 	- circular LL

@@ -1,4 +1,4 @@
-# linkedlist
+# Linked List
 
 - There are only two ways to store data, i.e. continous and non-continous. LinkedList is the non-continous way to store data in the memory.
 - Every element must point to the next element.
