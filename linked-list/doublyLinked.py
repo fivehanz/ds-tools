@@ -31,7 +31,7 @@ class DoublyLinkedList:
     def insertAtFront(self):
         pass
 
-    def length(self)
+    def length(self):
         pass
 
     def remove(self, index = 0):

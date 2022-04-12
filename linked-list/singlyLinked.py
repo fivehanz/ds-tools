@@ -5,10 +5,12 @@ Add/Remove first element: O(1)
 
 """
 
-class Node: 
+
+class Node:
     def __init__(self, item=None):
-        self.item = item  #data item
-        self.next = None  #pointer to successor
+        self.item = item  # data item
+        self.next = None  # pointer to successor
+
 
 # wrapper for Nodes
 class LinkedList:
@@ -32,11 +34,11 @@ class LinkedList:
         if self.head is None:
             return
         # check if next Node exists
-        elif self.head.next is None: 
+        elif self.head.next is None:
             self.head = None
         # set current head as next Node
         else:
-            self.head = self.head.next                
+            self.head = self.head.next
 
     def removeAtEnd(self):
         itr = self.head
@@ -80,7 +82,7 @@ class LinkedList:
         if index >= self.length():
             print("Index is out of range")
             return None
-        
+
         if index == 0: return self.removeAtFront()
 
         c_index, itr = 0, self.head
@@ -91,7 +93,7 @@ class LinkedList:
             previousNode = itr
             itr = itr.next
 
-            c_index+=1
+            c_index += 1
 
     def insertList(self, iList):
         pass

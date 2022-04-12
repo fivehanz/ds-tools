@@ -1,8 +1,10 @@
 # Arrays and Slices
 
-Arrays and slices in golang. [Golang Spec](https://go.dev/ref/spec#Array_types)
+##Arrays and slices in golang.
 
-## Arrays 
+[Golang Spec](https://go.dev/ref/spec#Array_types)
+
+### Arrays 
 
 Spec 
 
@@ -31,7 +33,7 @@ arr := [2*N] struct { x, y int32 }
 ```
 
 
-## Slices
+### Slices
 
 - built on top of arrays
 - slices are dynamic
@@ -73,3 +75,4 @@ slice := make([]int, 100) // capacity is optional
 slice := make([]int, 100, 100)
 
 ```
+## Arrays and Slices in Rust.
