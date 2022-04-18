@@ -1,6 +1,7 @@
 # data structures & tools
 
 ## rust resources
+- [Rust stdlib](https://doc.rust-lang.org/std/index.html)
 - [quick intro to Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 - [small exercises to get used to reading/writing rust](https://github.com/rust-lang/rustlings)
 - [extensive rust implementations of Algorithms & DS](https://github.com/TheAlgorithms/Rust)
