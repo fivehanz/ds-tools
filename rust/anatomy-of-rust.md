@@ -1,5 +1,7 @@
 # Anatomy of Rust
 
+- [Project Anatomy](https://cheats.rs/#project-anatomy)
+
 # Primitives
 
 - [Primitives](https://doc.rust-lang.org/stable/rust-by-example/primitives.html)
@@ -10,10 +12,11 @@
 
 # Syntax
 
-- [Structs](https://doc.rust-lang.org/stable/rust-by-example/custom_types/structs.html)
-- [Enums](https://doc.rust-lang.org/stable/rust-by-example/custom_types/enum.html)
-- [Constants](https://doc.rust-lang.org/stable/rust-by-example/custom_types/constants.html)
-- Control Flow
+- Custom Types [cheat sheet1](https://cheats.rs/#data-structures) [cheat sheet2](https://cheats.rs/#custom-types)
+   - [Structs](https://doc.rust-lang.org/stable/rust-by-example/custom_types/structs.html)
+   - [Enums](https://doc.rust-lang.org/stable/rust-by-example/custom_types/enum.html)
+   - [Constants](https://doc.rust-lang.org/stable/rust-by-example/custom_types/constants.html)
+- Control Flow [cheat sheet](https://cheats.rs/#control-flow)
    - [if/else](https://doc.rust-lang.org/stable/rust-by-example/flow_control/if_else.html)
    - [loop](https://doc.rust-lang.org/stable/rust-by-example/flow_control/loop.html)
    - [while](https://doc.rust-lang.org/stable/rust-by-example/flow_control/while.html)
@@ -21,7 +24,7 @@
    - [match](https://doc.rust-lang.org/stable/rust-by-example/flow_control/match.html)
    - [if let](https://doc.rust-lang.org/stable/rust-by-example/flow_control/if_let.html)
    - [while let](https://doc.rust-lang.org/stable/rust-by-example/flow_control/while_let.html)
-- [functions](https://doc.rust-lang.org/stable/rust-by-example/fn.html)
+- [functions](https://doc.rust-lang.org/stable/rust-by-example/fn.html) [cheat sheet](https://cheats.rs/#functions-behavior)
    - [associated functions & methods](https://doc.rust-lang.org/stable/rust-by-example/fn/methods.html)
    - [closures](https://doc.rust-lang.org/stable/rust-by-example/fn/closures.html)
    - [higher order functions](https://doc.rust-lang.org/stable/rust-by-example/fn/hof.html)
@@ -35,7 +38,7 @@
 - Crates
    - [creating a library](https://doc.rust-lang.org/stable/rust-by-example/crates/lib.html)
    - [using a library](https://doc.rust-lang.org/stable/rust-by-example/crates/using_lib.html)
-- [package manager / cargo](https://doc.rust-lang.org/stable/rust-by-example/cargo.html) 
+- [package manager / cargo](https://doc.rust-lang.org/stable/rust-by-example/cargo.html)  [cheat sheet](https://cheats.rs/#cargo)
 
 # Concepts
 
