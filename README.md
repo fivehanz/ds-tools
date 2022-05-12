@@ -4,12 +4,17 @@
 - [Rust stdlib](https://doc.rust-lang.org/std/index.html)
 - [quick intro to Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 - [small exercises to get used to reading/writing rust](https://github.com/rust-lang/rustlings)
-- [extensive rust implementations of Algorithms & DS](https://github.com/TheAlgorithms/Rust)
 - [extensive cheat sheet](https://cheats.rs/)
 - [Rust Knowledge. Collected.](https://github.com/ferrous-systems)
 
-## go resources
+## DSA resources
+- [complexity cheat sheet](https://www.bigocheatsheet.com/)
+- [cheat sheet1](https://algs4.cs.princeton.edu/cheatsheet/)
+- [cheat sheet2](https://github.com/TSiege/Tech-Interview-Cheat-Sheet#table-of-content)
+- [cheat sheet3](https://cheatography.com/burcuco/cheat-sheets/data-structures-and-algorithms/)
+- [extensive rust implementations of Algorithms & DS](https://github.com/TheAlgorithms/Rust)
 - [extensive go implementations of DSA](https://github.com/TheAlgorithms/Go)
+
 
 ## TOC
 
