@@ -13,9 +13,8 @@
 
 ## TOC
 
-- Types: 
-  - [Rust](https://doc.rust-lang.org/stable/rust-by-example/primitives.html), [cheat sheet](https://cheats.rs/#basic-types)
-  - [Go](https://go.dev/ref/spec#Types) 
+- [Anatomy of Rust](/rust/anatomy-of-rust.md) 
+- [Types in Golang](https://go.dev/ref/spec#Types) 
 - [Arrays & Slices](/arrays/README.md)
 - [Linked Lists](/linked-list/README.md)
     - singly LL
