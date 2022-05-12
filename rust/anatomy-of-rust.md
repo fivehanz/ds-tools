@@ -53,6 +53,8 @@
 # Concurrency
 
 # OOPs in Rust
+- [Gentle Introduction](https://stevedonovan.github.io/rust-gentle-intro/object-orientation.html)
+- [Composition over Inheritance](https://deployonfriday.io/28-days-of-rust-part-2-composition-over-inheritance)
 
 # Macros
 
